@@ -30,7 +30,4 @@ void loop(){
   while(!Serial.available());
   }
   
-  
-  
- 
 }
